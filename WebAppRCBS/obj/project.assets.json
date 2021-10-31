@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive - Microformas, SA. CV\\source\\repos\\WebAppRCBS\\WebAppRCBS.csproj",
+      "projectUniqueName": "D:\\OneDrive - Microformas, SA. CV\\source\\repos\\WebAppAzure\\WebAppRCBS\\WebAppRCBS.csproj",
       "projectName": "WebAppRCBS",
-      "projectPath": "D:\\OneDrive - Microformas, SA. CV\\source\\repos\\WebAppRCBS\\WebAppRCBS.csproj",
+      "projectPath": "D:\\OneDrive - Microformas, SA. CV\\source\\repos\\WebAppAzure\\WebAppRCBS\\WebAppRCBS.csproj",
       "packagesPath": "C:\\Users\\d10s1\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive - Microformas, SA. CV\\source\\repos\\WebAppRCBS\\obj\\",
+      "outputPath": "D:\\OneDrive - Microformas, SA. CV\\source\\repos\\WebAppAzure\\WebAppRCBS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
